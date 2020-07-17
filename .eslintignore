@@ -1,0 +1,8 @@
+apidoc/
+*.d.ts
+rpc-package/lib
+test
+bin
+rpc-package/proto
+rpc-package/node_modules
+config
